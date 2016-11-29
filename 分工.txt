@@ -1,5 +1,0 @@
-storycard 1422102020韩宇典
-Capability models 1422102012张银来和1422102006李晨杰
-UML models+ERmodels  1422102046陈思秋和1422102008王正荣
-System prototype 1422102019王子璇
-Everyone had taken part in the design  of models and written the stories.
